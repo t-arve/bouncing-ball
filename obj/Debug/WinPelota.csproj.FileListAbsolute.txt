@@ -1,0 +1,20 @@
+E:\Marcel\Documentos\Dropbox\LMBM\prg\VS\2020_2\WinPelota\WinPelota\bin\Debug\WinPelota.exe.config
+E:\Marcel\Documentos\Dropbox\LMBM\prg\VS\2020_2\WinPelota\WinPelota\bin\Debug\WinPelota.exe
+E:\Marcel\Documentos\Dropbox\LMBM\prg\VS\2020_2\WinPelota\WinPelota\bin\Debug\WinPelota.pdb
+E:\Marcel\Documentos\Dropbox\LMBM\prg\VS\2020_2\WinPelota\WinPelota\obj\Debug\WinPelota.csprojAssemblyReference.cache
+E:\Marcel\Documentos\Dropbox\LMBM\prg\VS\2020_2\WinPelota\WinPelota\obj\Debug\WinPelota.Properties.Resources.resources
+E:\Marcel\Documentos\Dropbox\LMBM\prg\VS\2020_2\WinPelota\WinPelota\obj\Debug\WinPelota.csproj.GenerateResource.cache
+E:\Marcel\Documentos\Dropbox\LMBM\prg\VS\2020_2\WinPelota\WinPelota\obj\Debug\WinPelota.csproj.CoreCompileInputs.cache
+E:\Marcel\Documentos\Dropbox\LMBM\prg\VS\2020_2\WinPelota\WinPelota\obj\Debug\WinPelota.exe
+E:\Marcel\Documentos\Dropbox\LMBM\prg\VS\2020_2\WinPelota\WinPelota\obj\Debug\WinPelota.pdb
+E:\Marcel\Documentos\Dropbox\LMBM\prg\VS\2020_2\WinPelota\WinPelota\obj\Debug\WinPelota.WinPelota.resources
+D:\UPB\PROGRA 1\avances\WinPelota\WinPelota\bin\Debug\WinPelota.exe.config
+D:\UPB\PROGRA 1\avances\WinPelota\WinPelota\bin\Debug\WinPelota.exe
+D:\UPB\PROGRA 1\avances\WinPelota\WinPelota\bin\Debug\WinPelota.pdb
+D:\UPB\PROGRA 1\avances\WinPelota\WinPelota\obj\Debug\WinPelota.csprojAssemblyReference.cache
+D:\UPB\PROGRA 1\avances\WinPelota\WinPelota\obj\Debug\WinPelota.Properties.Resources.resources
+D:\UPB\PROGRA 1\avances\WinPelota\WinPelota\obj\Debug\WinPelota.WinPelota.resources
+D:\UPB\PROGRA 1\avances\WinPelota\WinPelota\obj\Debug\WinPelota.csproj.GenerateResource.cache
+D:\UPB\PROGRA 1\avances\WinPelota\WinPelota\obj\Debug\WinPelota.csproj.CoreCompileInputs.cache
+D:\UPB\PROGRA 1\avances\WinPelota\WinPelota\obj\Debug\WinPelota.exe
+D:\UPB\PROGRA 1\avances\WinPelota\WinPelota\obj\Debug\WinPelota.pdb
